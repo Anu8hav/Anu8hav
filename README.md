@@ -2,13 +2,15 @@
 
 Building [SchoolSync](https://github.com/Anu8hav/SchoolSync) — a school management platform for small schools that still run on spreadsheets and group chats.
 
-## About
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=888888&vCenter=true&repeat=true&width=435&height=20&lines=<!-- TYPING LINE: replace with a real current status, e.g. "Fixing+a+scheduling+bug+in+SchoolSync" -->;<!-- TYPING LINE: e.g. "Rebuilding+my+Hyprland+config+again" -->;<!-- TYPING LINE: e.g. "Trying+out+Bun+instead+of+Node+for+a+week" -->;<!-- TYPING LINE: e.g. "Reading+Prisma+docs+at+2am" -->" alt="Status" /></a>
 
-MCA student working primarily in TypeScript/Next.js with some Python. Most of my time right now goes into SchoolSync, a full-stack app to handle student records, attendance, and scheduling for schools that don't have dedicated management software. I run Arch Linux with Hyprland as my daily setup.
+## 🛠 About
 
-<!-- NOTE: Consider adding one sentence here about *why* you started SchoolSync (a specific motivation or problem you saw), or a technical opinion you genuinely hold. Something only you would say. -->
+MCA student working primarily in TypeScript/Next.js with some Python. Most of my time right now goes into SchoolSync, a full-stack app to handle student records, attendance, and scheduling for schools that don't have dedicated management software. I run Arch Linux with Hyprland as my daily setup — and I've probably spent more hours ricing my config than writing actual application code this month.
 
-## Projects
+<!-- NOTE: If the Hyprland ricing line doesn't feel right, replace it with another real tinkering example — e.g. "I keep a dotfiles repo that I nuke and rebuild every few weeks just to try a new bar or notification daemon." Something specific to you. -->
+
+## 📌 Projects
 
 ### SchoolSync
 
@@ -41,11 +43,16 @@ Portfolio website for an architect, built to showcase their work and establish a
 
 [Source](https://github.com/Anu8hav/NJ-Design-Studio)
 
----
+## 🧪 Playground
 
-Other repos: [Basic_Snake](https://github.com/Anu8hav/Basic_Snake), [Almost-Custom-TypeScript-Components](https://github.com/Anu8hav/Almost-Custom-TypeScript-Components)
+Small stuff, side experiments, things I built to learn or just to see if I could.
 
-## Stack
+- [Basic_Snake](https://github.com/Anu8hav/Basic_Snake) — first "real" project in Python, still has no menu, still not fixing it
+- [Almost-Custom-TypeScript-Components](https://github.com/Anu8hav/Almost-Custom-TypeScript-Components) — reusable components I rebuild every time I change my mind about styling
+
+<!-- ADD: any open-source contributions, forks you've actually contributed to, or weekend experiments worth mentioning — one line each, same dry format -->
+
+## ⚙ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white "TypeScript")
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white "Next.js")
@@ -57,3 +64,13 @@ Other repos: [Basic_Snake](https://github.com/Anu8hav/Basic_Snake), [Almost-Cust
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/anubhavnath/) · [anu.anubhav.nath@gmail.com](mailto:anu.anubhav.nath@gmail.com)
+
+---
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anu8hav/Anu8hav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anu8hav/Anu8hav/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anu8hav/Anu8hav/output/github-snake-dark.svg" />
+</picture>
+</div>
