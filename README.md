@@ -1,28 +1,43 @@
-# Anu8hav
+<!-- Header -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Anu8hav&fontSize=48&fontColor=c9d1d9&fontAlignY=38&animation=fadeIn" alt="Anu8hav" />
 
-Building [SchoolSync](https://github.com/Anu8hav/SchoolSync) — a school management platform for small schools that still run on spreadsheets and group chats.
+<!-- Typing SVG — replace these lines with your own real status updates -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Building+SchoolSync+%E2%80%94+school+management+platform;Ricing+my+Hyprland+config+at+2am;TypeScript+%2F+Next.js+%2F+Prisma+%2F+PostgreSQL;MCA+student+%2C+full-stack+tinkerer" alt="Typing Status" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=888888&vCenter=true&repeat=true&width=435&height=20&lines=<!-- TYPING LINE: replace with a real current status, e.g. "Fixing+a+scheduling+bug+in+SchoolSync" -->;<!-- TYPING LINE: e.g. "Rebuilding+my+Hyprland+config+again" -->;<!-- TYPING LINE: e.g. "Trying+out+Bun+instead+of+Node+for+a+week" -->;<!-- TYPING LINE: e.g. "Reading+Prisma+docs+at+2am" -->" alt="Status" /></a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anu8hav&label=visitors&color=1a1b26&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
 
 ## 🛠 About
 
-MCA student working primarily in TypeScript/Next.js with some Python. Most of my time right now goes into SchoolSync, a full-stack app to handle student records, attendance, and scheduling for schools that don't have dedicated management software. I run Arch Linux with Hyprland as my daily setup — and I've probably spent more hours ricing my config than writing actual application code this month.
+MCA student working primarily in TypeScript/Next.js with some Python. Most of my time right now goes into [SchoolSync](https://github.com/Anu8hav/SchoolSync), a full-stack app to handle student records, attendance, and scheduling for schools that don't have dedicated management software. I run Arch Linux with Hyprland as my daily setup — and I've probably spent more hours ricing my config than writing actual application code this month.
 
-<!-- NOTE: If the Hyprland ricing line doesn't feel right, replace it with another real tinkering example — e.g. "I keep a dotfiles repo that I nuke and rebuild every few weeks just to try a new bar or notification daemon." Something specific to you. -->
+<!-- NOTE: Swap the Hyprland ricing line with your own real tinkering example if you prefer — e.g. dotfiles rebuilds, trying a new notification daemon, etc. -->
 
 ## 📌 Projects
 
+<div align="center">
+<a href="https://github.com/Anu8hav/SchoolSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu8hav&repo=SchoolSync&theme=github_dark&hide_border=true&bg_color=0d1117" alt="SchoolSync" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Anu8hav/NJ-Design-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu8hav&repo=NJ-Design-Studio&theme=github_dark&hide_border=true&bg_color=0d1117" alt="NJ Design Studio" /></a>
+</div>
+
 ### SchoolSync
 
-<!-- SCREENSHOT: replace with a real screenshot of SchoolSync, e.g. the dashboard or attendance tracking view -->
+<!-- SCREENSHOT: replace with a real screenshot of SchoolSync, e.g. the dashboard or attendance view -->
 
-A school management platform that handles student enrollment, attendance tracking, class scheduling, and administrative workflows through a single web interface. Built for small-to-mid-size schools that currently rely on manual record-keeping.
+A school management platform that handles student enrollment, attendance tracking, class scheduling, and administrative workflows. Built for small-to-mid-size schools that currently rely on spreadsheets and WhatsApp groups for everything.
 
-<!-- TECHNICAL NOTE: Add one sentence about a real technical decision or challenge — e.g. "Modeling recurring class schedules across different weekdays required [approach] because [reason]" -->
+<!-- TECHNICAL NOTE: Add a sentence about a real challenge — e.g. "Modeling recurring schedules required [approach] because [reason]" -->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white "TypeScript")
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white "Next.js")
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white "Prisma ORM")
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white "Prisma")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white "PostgreSQL")
 
 [Source](https://github.com/Anu8hav/SchoolSync) · Demo: in progress
@@ -31,11 +46,11 @@ A school management platform that handles student enrollment, attendance trackin
 
 ### NJ Design Studio
 
-<!-- SCREENSHOT: replace with a real screenshot of NJ Design Studio, e.g. the landing page or project gallery view -->
+<!-- SCREENSHOT: replace with a real screenshot of NJ Design Studio, e.g. landing page or gallery -->
 
-Portfolio website for an architect, built to showcase their work and establish an online presence. Uses Next.js 14 App Router with Clerk for authentication and a database-backed project gallery.
+Portfolio website for an architect, built to showcase their work and manage client inquiries. Uses Next.js 14 App Router with Clerk for authentication and a database-backed project gallery.
 
-<!-- TECHNICAL NOTE: Add one sentence about a specific implementation detail — e.g. "Used Clerk webhooks to sync user data to [database] for [reason]" or a design tradeoff you made -->
+<!-- TECHNICAL NOTE: Add a specific detail — e.g. "Used Clerk webhooks to sync user data because [reason]" -->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white "TypeScript")
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white "Next.js 14")
@@ -50,16 +65,19 @@ Small stuff, side experiments, things I built to learn or just to see if I could
 - [Basic_Snake](https://github.com/Anu8hav/Basic_Snake) — first "real" project in Python, still has no menu, still not fixing it
 - [Almost-Custom-TypeScript-Components](https://github.com/Anu8hav/Almost-Custom-TypeScript-Components) — reusable components I rebuild every time I change my mind about styling
 
-<!-- ADD: any open-source contributions, forks you've actually contributed to, or weekend experiments worth mentioning — one line each, same dry format -->
+<!-- ADD: any open-source contributions or weekend experiments worth mentioning — same format, one line each -->
+
+## 📊 Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anu8hav&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
+</div>
 
 ## ⚙ Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white "TypeScript")
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white "Next.js")
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white "Python")
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white "PostgreSQL")
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white "Prisma")
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white "Arch Linux")
+<div align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,nextjs,python,postgresql,prisma,linux&theme=dark" alt="Tech Stack" /></a>
+</div>
 
 ## Connect
 
@@ -74,3 +92,5 @@ Small stuff, side experiments, things I built to learn or just to see if I could
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anu8hav/Anu8hav/output/github-snake-dark.svg" />
 </picture>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" alt="" />
