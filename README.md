@@ -1,20 +1,20 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- HERO BANNER -->
+<!-- HERO BANNER — NEON SIGN -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,25:7aa2f7,50:7dcfff,75:bb9af7,100:1a1b26&height=220&section=header&text=Anu8hav&fontSize=72&fontColor=c0caf5&fontAlignY=35&desc=Software%20Developer%20%7C%20Builder%20%7C%20Linux%20Enthusiast&descSize=18&descColor=a9b1d6&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="./assets/neon-banner.png" alt="Anu8hav — Neon Sign Banner" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED TYPING INTRODUCTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+software+one+commit+at+a+time.;Turning+ideas+into+applications.;Exploring+modern+technologies.;Writing+clean+and+scalable+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+software+one+commit+at+a+time.;Turning+ideas+into+applications.;Exploring+modern+technologies.;Writing+clean+and+scalable+code." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Anu8hav&label=Profile%20Views&color=7aa2f7&style=flat-square&abbreviated=true" alt="Profile Views" />
