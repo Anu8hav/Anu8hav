@@ -2,9 +2,9 @@
   <defs>
     <!-- Glow effect -->
     <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur1" />
-      <feGaussianBlur stdDeviation="8" result="blur2" />
-      <feGaussianBlur stdDeviation="15" result="blur3" />
+      <feGaussianBlur stdDeviation="2" result="blur1" />
+      <feGaussianBlur stdDeviation="5" result="blur2" />
+      <feGaussianBlur stdDeviation="12" result="blur3" />
       <feMerge>
         <feMergeNode in="blur3" />
         <feMergeNode in="blur2" />
@@ -15,16 +15,18 @@
   </defs>
   <style>
     text {
-      font-family: 'Brush Script MT', 'Lucida Handwriting', cursive, sans-serif;
-      font-size: 130px;
-      font-style: italic;
+      /* Uses JetBrains Mono if installed, falls back to other clean monospaced fonts */
+      font-family: 'JetBrainsMono Nerd Font', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+      font-size: 110px;
+      font-weight: 200; /* Thin lines like the reference image */
+      letter-spacing: 12px;
       text-anchor: middle;
       dominant-baseline: middle;
     }
     .neon-tube {
       fill: none;
-      stroke: #ff0055;
-      stroke-width: 10px;
+      stroke: #ffaa00; /* Gold */
+      stroke-width: 5px;
       stroke-linecap: round;
       stroke-linejoin: round;
       filter: url(#neon-glow);
@@ -32,8 +34,8 @@
     }
     .neon-core {
       fill: none;
-      stroke: #ffffff;
-      stroke-width: 4px;
+      stroke: #fff9e6; /* Slight yellow-white core */
+      stroke-width: 1.5px;
       stroke-linecap: round;
       stroke-linejoin: round;
       animation: flicker 4s infinite alternate;
@@ -43,13 +45,12 @@
         opacity: 1;
       }
       20%, 24%, 55% {
-        opacity: 0.1;
+        opacity: 0.2;
       }
     }
   </style>
   
-  <!-- Shadow/reflection on the "wall" -->
-  <text x="50%" y="55%" fill="#ff0055" opacity="0.1" filter="blur(15px)" font-family="'Brush Script MT', cursive">Anu8hav</text>
+  <text x="50%" y="55%" fill="#ffaa00" opacity="0.1" filter="blur(10px)">Anu8hav</text>
   
   <text x="50%" y="50%" class="neon-tube">Anu8hav</text>
   <text x="50%" y="50%" class="neon-core">Anu8hav</text>
