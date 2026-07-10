@@ -1,14 +1,13 @@
-<!-- Header -->
+```text
+    ___                ___ __               
+   /   |  ____  __  __( _ ) /_  ____ __   __
+  / /| | / __ \/ / / / __  / __ \/ __ `/ | / /
+ / ___ |/ / / / /_/ / /_/ / / / / /_/ /| |/ / 
+/_/  |_/_/ /_/\__,_/\____/_/ /_/\__,_/ |___/  
+```
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Anu8hav&fontSize=48&fontColor=c9d1d9&fontAlignY=38&animation=fadeIn" alt="Anu8hav" />
-
-<!-- Typing SVG — replace these lines with your own real status updates -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=25&lines=Building+SchoolSync+%E2%80%94+school+management+platform;Ricing+my+Hyprland+config+at+2am;TypeScript+%2F+Next.js+%2F+Prisma+%2F+PostgreSQL;MCA+student+%2C+full-stack+tinkerer" alt="Typing Status" /></a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Anu8hav&label=visitors&color=1a1b26&style=flat-square" alt="Profile views" />
-
 </div>
 
 <br/>
