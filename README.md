@@ -81,7 +81,11 @@ Small stuff, side experiments, things I built to learn or just to see if I could
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/anubhavnath/) · [anu.anubhav.nath@gmail.com](mailto:anu.anubhav.nath@gmail.com)
+<div align="center">
+<a href="https://github.com/Anu8hav"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anubhavnath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anu.anubhav.nath@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 ---
 
