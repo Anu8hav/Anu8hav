@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/header.svg" alt="anubhav@nath — Terminal Profile" width="800" />
+<img src="./assets/header.svg?v=2" alt="anubhav@nath — Terminal Profile" width="800" />
 </div>
 
 <div align="center">
