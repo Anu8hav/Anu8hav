@@ -5,8 +5,10 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */6 * * *" # Runs every 6 hours automatically
+  workflow_dispatch: # Allows manual trigger from GitHub UI / API
+  repository_dispatch:
+    types: [update-snake]
 
 jobs:
   generate:
