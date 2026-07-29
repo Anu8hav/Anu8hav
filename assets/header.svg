@@ -29,12 +29,12 @@
   <!-- OS -->
   <rect x="440" y="104" width="9" height="9" rx="2" fill="#f7768e"/>
   <text x="457" y="113" fill="#7dcfff" font-size="13" text-decoration="underline">OS</text>
-  <text x="565" y="113" fill="#a9b1d6" font-size="13">Arch Linux (Hyprland)</text>
+  <text x="565" y="113" fill="#a9b1d6" font-size="13">Windows</text>
 
   <!-- Editor -->
   <circle cx="444" cy="136" r="5" fill="#e0af68"/>
   <text x="457" y="140" fill="#7dcfff" font-size="13" text-decoration="underline">Editor</text>
-  <text x="565" y="140" fill="#a9b1d6" font-size="13">Neovim</text>
+  <text x="565" y="140" fill="#a9b1d6" font-size="13">VS Code</text>
 
   <!-- Languages -->
   <rect x="440" y="158" width="9" height="9" rx="2" fill="#7aa2f7"/>
