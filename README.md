@@ -1,18 +1,6 @@
-```
-    ___                ___ __             anubhav@nath
-   /   |  ____  __  __( _ ) /_  ____ __   __ ─────────────────────────
-  / /| | / __ \/ / / / __  / __ \/ __ `/ | / /  OS         Arch Linux (Hyprland)
- / ___ |/ / / / /_/ / /_/ / / / / /_/ /| |/ /   Editor     Neovim
-/_/  |_/_/ /_/\__,_/\____/_/ /_/\__,_/ |___/    Languages  TypeScript, Python
-                                                 Frontend   Next.js, React
-                                                 Backend    Node.js, Prisma
-                                                 Database   PostgreSQL, MongoDB
-                                                 Tools      Git, Docker
-                                                 Building   SchoolSync
-                                                 Learning   Rust
-                                                 Location   Bhopal, IN
-                                                 Status     Open to SWE roles
-```
+<div align="center">
+<img src="./assets/header.svg" alt="anubhav@nath — Terminal Profile" width="800" />
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Anu8hav&label=visitors&color=1a1b26&style=flat-square" alt="Profile views" />
